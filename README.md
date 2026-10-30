@@ -1,4 +1,4 @@
-# Hi, I'm Junsik Hwang 👋
+# Hi, I'm Junshik Hwang 👋
 
 Head of Technology at **Topaboda Inc.** (Korea). I build domain software for water resources and the environment, and AI agent tooling on top of Claude Code.
 
